@@ -31,3 +31,9 @@ List each CDT code with a one-line description and the tooth/surface it applies 
 
 ## Example outputs
 A formal 250–400 word narrative on practice letterhead (placeholder), structured with labeled sections: Diagnosis, Clinical Findings, Medical Necessity, Proposed Treatment, and Provider Attestation.
+
+## Live Data Sources
+- **CDT-to-ICD-10 Crosswalk Tables** — ADA and CMS published crosswalk references mapping CDT procedure codes to ICD-10 diagnosis codes
+- **ADA Claim Form Requirements** — ada.org (ADA Dental Claim Form J430D specifications and payer guidelines)
+- **State Medicaid Dental Coverage Schedules** — state Medicaid agency portals (covered procedures, fee schedules, and prior authorization requirements by state)
+- **Delta Dental Fee Schedules** — publicly available fee patterns and coverage tier documentation from Delta Dental plan resources

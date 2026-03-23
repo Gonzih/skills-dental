@@ -31,3 +31,8 @@ Draft a patient acknowledgment section confirming they have read the form, had t
 
 ## Example outputs
 A 400–600 word form with a practice name placeholder header, numbered sections, a risks checklist, an alternatives paragraph, and a formatted signature block. Includes a disclaimer that the form is a template requiring professional and legal review before use.
+
+## Live Data Sources
+- **MedlinePlus Dental Health Topics** — medlineplus.gov/api (NIH consumer health information on dental procedures, risks, and patient education)
+- **AAP and ADA Patient Education Materials** — American Academy of Periodontology and ADA patient-facing procedure guides and risk information
+- **CDC Oral Health Data and Statistics** — cdc.gov/oralhealth (population-level oral health statistics to contextualize procedure risks and outcomes)
