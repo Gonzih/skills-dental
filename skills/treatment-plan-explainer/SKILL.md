@@ -31,3 +31,8 @@ For each major procedure, add a short "what to expect" note: preparation steps, 
 
 ## Example outputs
 A friendly, section-by-section breakdown titled "Your Personalized Treatment Plan" with headers for each procedure, a numbered sequence, a cost summary box, and a "Questions to ask your dentist" section at the end.
+
+## Live Data Sources
+- **ADA CDT Code Lookup** — ada.org/publications/cdt (official Current Dental Terminology code definitions and descriptions)
+- **ClinicalTrials.gov** — clinicaltrials.gov (dental research studies for evidence-based treatment rationale)
+- **PubMed Clinical Dentistry Literature** — pubmed.ncbi.nlm.nih.gov (peer-reviewed clinical dentistry research and systematic reviews)

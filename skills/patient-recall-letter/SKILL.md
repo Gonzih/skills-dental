@@ -31,3 +31,8 @@ End with a single, frictionless CTA: phone number, online booking link placehold
 
 ## Example outputs
 A 200–300 word letter with a subject line, personalized greeting, 3–4 short paragraphs, and a bolded scheduling CTA. Suitable for print mail or email with minimal edits.
+
+## Live Data Sources
+- **ADA Evidence-Based Clinical Practice Guidelines** — ada.org/resources/research/science-and-research-institute/evidence-based-dental-research (recall interval and preventive care recommendations)
+- **AAPD Periodontal Classification System** — American Academy of Pediatric Dentistry guidelines for recall frequency based on caries risk and periodontal status
+- **PubMed Recall Interval Research** — pubmed.ncbi.nlm.nih.gov (peer-reviewed studies on optimal recall intervals and patient reactivation outcomes)
